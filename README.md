@@ -2,7 +2,9 @@
 
 Nutzung von MPG.PuRe Daten für verschiedene Anwendungsfälle   
 
-Ein Python Codebook mit Erläuterungen zur Anpassung auf individuellen Bedarf   
+Ein Python Codebook mit Erläuterungen zur Anpassung auf individuellen Bedarf.
+
+Der Code wurde in z.T. in Anaconda, z.T. in Studio Visual Code erstellt und funktioniert mit Python 3.9. und 3.13.  
 
 Der Code wurde z.T. unter Zuhilfename von unterschiedlichen AI-Tools erzeugt, aber in seiner Funktionalität intellektuell getestet.   
 Er befindet sich in einem Beta-Zustand. Optimierungen sind in Arbeit 
